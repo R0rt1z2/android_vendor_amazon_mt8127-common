@@ -1,0 +1,1 @@
+# android_vendor_amazon_mt8127-common
